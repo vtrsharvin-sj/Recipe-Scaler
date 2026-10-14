@@ -1,4 +1,4 @@
-# gather. — Recipe Scaler
+# Gather. — Recipe Scaler
 
 > Same recipe. A different table.
 
@@ -25,17 +25,9 @@ It is a single HTML file with no dependencies, no build step, and no network req
 No installation required.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/vtrsharvin-sj/Recipe-Scaler.git
+cd Recipe-Scaler
 open index.html   # or just double-click the file
-```
-
-Or serve it locally:
-
-```bash
-python3 -m http.server 8000
-# then visit http://localhost:8000
-```
 
 ## How to use
 
