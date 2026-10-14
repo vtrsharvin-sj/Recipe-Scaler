@@ -28,6 +28,7 @@ No installation required.
 git clone https://github.com/vtrsharvin-sj/Recipe-Scaler.git
 cd Recipe-Scaler
 open index.html   # or just double-click the file
+```
 
 ## How to use
 
