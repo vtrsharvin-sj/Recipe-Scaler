@@ -1,6 +1,8 @@
-# Gather. — Recipe Scaler
+# Gather — Recipe Scaler
 
 > Same recipe. A different table.
+
+**[Live demo → vtrsharvin-sj.github.io/Recipe-Scaler](https://vtrsharvin-sj.github.io/Recipe-Scaler)**
 
 **gather.** is a small kitchen companion that scales a recipe for any number of servings. Enter a dish, its original servings, and the ingredients, then choose how many people you're cooking for. It does the maths, saves your recipe in the browser, and lets you print a clean ingredient list.
 
@@ -22,7 +24,7 @@ It is a single HTML file with no dependencies, no build step, and no network req
 
 ## Getting started
 
-No installation required.
+The quickest way to try it is the [live site](https://vtrsharvin-sj.github.io/Recipe-Scaler). To run it locally, no installation is required:
 
 ```bash
 git clone https://github.com/vtrsharvin-sj/Recipe-Scaler.git
